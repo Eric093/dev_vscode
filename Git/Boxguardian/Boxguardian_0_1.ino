@@ -104,6 +104,6 @@ void printIPAddress()
     lcd.print(Ethernet.localIP()[thisByte], DEC);
     lcd.print(".");
   }
-
+  digitalWrite(relayPin, LOW);
   Serial.println();
 }

@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:diecimila",
+    "configuration": "cpu=atmega328",
+    "port": "COM3",
+    "sketch": "Git\\.git\\180216-185116-diecimilaatmega168\\src\\Boxguardian_0_1.ino"
+}
